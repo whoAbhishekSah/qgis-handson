@@ -1,6 +1,8 @@
 # qgis handson
 
-The following sequence of actions were taken.
+### Loading data from data source manager
+
+Different type of data sources used: Vector Shape files, GeoPacakge files and Spatiallite db file loaded from training dataset.
 
 - Install QGIS on ubuntu 22.04
 - Download training data from qgis training manual
