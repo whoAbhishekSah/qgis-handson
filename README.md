@@ -13,4 +13,4 @@ The following sequence of actions were taken.
 
 This is how the layers look like when loaded properly:
 
-![Layers001](./layers.png)
+![Layers001](./layers001.png)
