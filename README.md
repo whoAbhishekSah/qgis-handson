@@ -14,3 +14,11 @@ The following sequence of actions were taken.
 This is how the layers look like when loaded properly:
 
 ![Layers001](./layers001.png)
+
+#### Use of symbology
+
+Symbology allows you change the visual representaiton of your layers. For example: changing the color fill, adding border etc.
+
+The following image shows how you can do symbology on different layers to acheive something like this, where roads are marked bold, landuse base color is changed to green, buildings are marked red. Also buildings layer has scale dependent layer rendering. 
+
+![Symbology](./symbology.png)
