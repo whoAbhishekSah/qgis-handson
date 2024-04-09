@@ -11,3 +11,6 @@ The following sequence of actions were taken.
 - Load sqlite data source - and load landuse data to layers.
 - Save the project inside solutions directory.
 
+This is how the layers look like when loaded properly:
+
+![Layers001](./layers.png)
