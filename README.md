@@ -24,3 +24,15 @@ Symbology allows you change the visual representaiton of your layers. For exampl
 The following image shows how you can do symbology on different layers to acheive something like this, where roads are marked bold, landuse base color is changed to green, buildings are marked red. Also buildings layer has scale dependent layer rendering. 
 
 ![Symbology](./symbology.png)
+
+#### Vector data
+
+>Vector data is arguably the most common kind of data in the daily use of GIS. The vector model represents the location and shape of geographic features using points, lines and polygons (and for 3D data also surfaces and volumes), while their other properties are included as attributes (often presented as a table in QGIS).
+
+
+Attribute Table of a shape file has row colum structure. Rows are called "record" which is associated with a feature on the canvas map such as a Polygon.
+
+Once you select a feature on the map, the corresponding record row will get highlighted
+
+![attributes](./attributes.png)
+
